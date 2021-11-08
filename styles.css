@@ -1,0 +1,19 @@
+input.ng-invalid {
+  background-color: red;
+  color: white;
+}
+
+select.ng-invalid {
+  background-color: red;
+  color: white;
+}
+
+.one {
+  margin-left: -105px;
+  border: 1px ridge;
+  border-radius: 15px;
+  padding: 20px;
+  width: 500px;
+  height: 350px;
+  background-color: rgb(222, 238, 6);
+}
